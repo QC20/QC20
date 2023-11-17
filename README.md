@@ -160,7 +160,7 @@ Beware the screen hops! Each time you drop an 'X,' it's like a teleport to the f
 <a name="72"></a><br/><br/><br/>
 [⬜](#383) [⬜](#384) [⬜](#385)<br/>[⬜](#386) ⭕ [⬜](#387)<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="73"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>Go to the bottom: [↓](#bottom)<br/><a name="74"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="74"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
 <a name="75"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⭕ ⭕ [⬜](#388)<br/>✖️ [⬜](#389) [⬜](#390)<br/><br/><br/><br/>
