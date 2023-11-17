@@ -11,7 +11,7 @@ Beware the screen hops! Each time you drop an 'X,' it's like a teleport to the f
 
 ***Let the games begin!***
 
-<em>If you're not into the shenanigans and just want to dive into the cool projects, let's cut to the chase and [skip to the bottom](#bottom). Let's just cut to the chase and get to the main event!</em>
+<b>If you're not into the shenanigans and just want to dive into the cool projects, let's cut to the chase and [skip to the bottom](#bottom). Let's just cut to the chase and get to the main event!</b>
 ---
 <a name="root"></a><br/><br/><br/>
 [⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/>
