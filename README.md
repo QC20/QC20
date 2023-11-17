@@ -1,14 +1,19 @@
 
 <a name="top"></a>
-I challenge you to a game of Tic-Tac-Toe. 
-Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
+***Ready for a Tic-Tac-Toe showdown?***
+Let the emojis do their thing for a few seconds, and when they're all set, kick off the game by tapping the top box.
 
-Xs go first, click one of the nine boxes to make your move.
+***The 'X' team gets the honor of the first move—pick any of the nine boxes to make your mark. ***
 
-_If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all of the emojis._
+_If the buttons decide to take a break and ignore your clicks, a quick page reload should do the trick. Sometimes, GitHub gets a little emoji stage fright!
 
-[Take me to the bottom](#bottom)
+Beware the screen hops! Each time you drop an 'X,' it's like a teleport to the first game board you see. Don't worry; it's all part of the whimsical game experience. Give it a whirl and let the good times roll!_
 
+***Let the games begin!***
+
+
+
+If you're not into the shenanigans and just want to dive into the cool projects, let's cut to the chase and [skip to the bottom](#bottom). Let's just cut to the chase and get to the main event!
 ---
 <a name="root"></a><br/><br/><br/>
 [⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/>
