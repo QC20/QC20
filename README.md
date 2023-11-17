@@ -161,91 +161,91 @@ Beware the screen hops! Each time you drop an 'X,' it's like a teleport to the f
 [⬜](#383) [⬜](#384) [⬜](#385)<br/>[⬜](#386) ⭕ [⬜](#387)<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="73"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="74"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="75"></a><br/><br/><br/>
 <a name="75"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⭕ ⭕ [⬜](#388)<br/>✖️ [⬜](#389) [⬜](#390)<br/><br/><br/><br/>
 <a name="76"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⬜ ⭕ ⬜<br/>⭕ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⬜ ⭕ ⬜<br/>⭕ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="76"></a><br/><br/><br/>
 <a name="77"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⬜ ⭕ ⬜<br/>⭕ ⬜ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⬜ ⭕ ⬜<br/>⭕ ⬜ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="77"></a><br/><br/><br/>
 <a name="78"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="78"></a><br/><br/><br/>
 <a name="79"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="79"></a><br/><br/><br/>
 <a name="80"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="80"></a><br/><br/><br/>
 <a name="81"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ⭕ [⬜](#391)<br/>[⬜](#392) ✖️ [⬜](#393)<br/><br/><br/><br/>
 <a name="82"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="82"></a><br/><br/><br/>
 <a name="83"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="83"></a><br/><br/><br/>
 <a name="84"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>✖️ ⭕ [⬜](#394)<br/>⭕ [⬜](#395) [⬜](#396)<br/><br/><br/><br/>
 <a name="85"></a><br/><br/><br/>
-✖️ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="84"></a><br/><br/><br/>
 <a name="86"></a><br/><br/><br/>
-✖️ ⬜ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⬜ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="85"></a><br/><br/><br/>
 <a name="87"></a><br/><br/><br/>
-✖️ ⬜ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⬜ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="86"></a><br/><br/><br/>
 <a name="88"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="87"></a><br/><br/><br/>
 <a name="89"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="88"></a><br/><br/><br/>
 <a name="90"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="89"></a><br/><br/><br/>
 <a name="91"></a><br/><br/><br/>
 ✖️ ⭕ [⬜](#397)<br/>[⬜](#398) ⭕ ✖️<br/>⭕ ✖️ [⬜](#399)<br/><br/><br/><br/>
 <a name="92"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="92"></a><br/><br/><br/>
 <a name="93"></a><br/><br/><br/>
-✖️ ✖️ ⬜<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ✖️ ⬜<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="93"></a><br/><br/><br/>
 <a name="94"></a><br/><br/><br/>
-✖️ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="94"></a><br/><br/><br/>
 <a name="95"></a><br/><br/><br/>
 ✖️ ⭕ [⬜](#400)<br/>⭕ ⭕ ✖️<br/>✖️ [⬜](#401) [⬜](#402)<br/><br/><br/><br/>
 <a name="96"></a><br/><br/><br/>
-✖️ ⬜ ⬜<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⬜ ⬜<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="97"></a><br/><br/><br/>
 <a name="97"></a><br/><br/><br/>
-✖️ ⬜ ⬜<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⬜ ⬜<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="98"></a><br/><br/><br/>
 <a name="98"></a><br/><br/><br/>
-✖️ ✖️ ⬜<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ✖️ ⬜<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="99"></a><br/><br/><br/>
 <a name="99"></a><br/><br/><br/>
-✖️ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="100"></a><br/><br/><br/>
 <a name="100"></a><br/><br/><br/>
 ✖️ [⬜](#403) ⭕<br/>⭕ ⭕ ✖️<br/>[⬜](#404) ✖️ [⬜](#405)<br/><br/><br/><br/>
 <a name="101"></a><br/><br/><br/>
-✖️ ⬜ ⬜<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⬜ ⬜<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="101"></a><br/><br/><br/>
 <a name="102"></a><br/><br/><br/>
-✖️ ⬜ ⬜<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⬜ ⬜<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="102"></a><br/><br/><br/>
 <a name="103"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="103"></a><br/><br/><br/>
 <a name="104"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ⬜<br/>✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="104"></a><br/><br/><br/>
 <a name="105"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="105"></a><br/><br/><br/>
 <a name="106"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ⬜<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="106"></a><br/><br/><br/>
 <a name="107"></a><br/><br/><br/>
 ✖️ ⭕ [⬜](#406)<br/>[⬜](#407) ⭕ [⬜](#408)<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="108"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="107"></a><br/><br/><br/>
 <a name="109"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⬜ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⬜ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="108"></a><br/><br/><br/>
 <a name="110"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>⭕ ⭕ [⬜](#409)<br/>✖️ [⬜](#410) [⬜](#411)<br/><br/><br/><br/>
 <a name="111"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⬜ ⬜<br/>⭕ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⬜ ⬜<br/>⭕ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="111"></a><br/><br/><br/>
 <a name="112"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⬜ ⬜<br/>⭕ ⬜ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⬜ ⬜<br/>⭕ ⬜ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="112"></a><br/><br/><br/>
 <a name="113"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⬜<br/>⬜ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⬜<br/>⬜ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="113"></a><br/><br/><br/>
 <a name="114"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>✖️ ⭕ ✖️<br/>⬜ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>✖️ ⭕ ✖️<br/>⬜ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="114"></a><br/><br/><br/>
 <a name="115"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>✖️ ⭕ ⬜<br/>✖️ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>✖️ ⭕ ⬜<br/>✖️ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="115"></a><br/><br/><br/>
 <a name="116"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>✖️ ⭕ ⬜<br/>⬜ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>✖️ ⭕ ⬜<br/>⬜ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="116"></a><br/><br/><br/>
 <a name="117"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ [⬜](#412)<br/>[⬜](#413) [⬜](#414) ✖️<br/><br/><br/><br/>
 <a name="118"></a><br/><br/><br/>
@@ -259,33 +259,33 @@ Beware the screen hops! Each time you drop an 'X,' it's like a teleport to the f
 <a name="122"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>[⬜](#427) ✖️ [⬜](#428)<br/>[⬜](#429) ⭕ ✖️<br/><br/><br/><br/>
 <a name="123"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⬜ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⬜ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="123"></a><br/><br/><br/>
 <a name="124"></a><br/><br/><br/>
 ⭕ ✖️ [⬜](#430)<br/>✖️ ⭕ ✖️<br/>⭕ [⬜](#431) [⬜](#432)<br/><br/><br/><br/>
 <a name="125"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="125"></a><br/><br/><br/>
 <a name="126"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>⭕ ⬜ ✖️<br/>⭕ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>⭕ ⬜ ✖️<br/>⭕ ✖️ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="126"></a><br/><br/><br/>
 <a name="127"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>⭕ ⬜ ✖️<br/>⭕ ⬜ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>⭕ ⬜ ✖️<br/>⭕ ⬜ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="127"></a><br/><br/><br/>
 <a name="128"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⬜ ⭕ ⬜<br/>✖️ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>⬜ ⭕ ⬜<br/>✖️ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="128"></a><br/><br/><br/>
 <a name="129"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>✖️ ⭕ ⬜<br/>✖️ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>✖️ ⭕ ⬜<br/>✖️ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="129"></a><br/><br/><br/>
 <a name="130"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>⬜ ⭕ ✖️<br/>✖️ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>⬜ ⭕ ✖️<br/>✖️ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="130"></a><br/><br/><br/>
 <a name="131"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>⬜ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>⬜ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="131"></a><br/><br/><br/>
 <a name="132"></a><br/><br/><br/>
 ⭕ ✖️ [⬜](#433)<br/>[⬜](#434) ⭕ [⬜](#435)<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="133"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⬜ ⭕ ⬜<br/>⬜ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>⬜ ⭕ ⬜<br/>⬜ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="133"></a><br/><br/><br/>
 <a name="134"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>✖️ ⭕ ⬜<br/>⬜ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>✖️ ⭕ ⬜<br/>⬜ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="134"></a><br/><br/><br/>
 <a name="135"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>⬜ ⭕ ✖️<br/>⬜ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>⬜ ⭕ ✖️<br/>⬜ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="135"></a><br/><br/><br/>
 <a name="136"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>⬜ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ⬜<br/>⬜ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="136"></a><br/><br/><br/>
 <a name="137"></a><br/><br/><br/>
 ⭕ ✖️ [⬜](#436)<br/>[⬜](#437) ⭕ [⬜](#438)<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="138"></a><br/><br/><br/>
@@ -299,17 +299,17 @@ Beware the screen hops! Each time you drop an 'X,' it's like a teleport to the f
 <a name="142"></a><br/><br/><br/>
 ⭕ ✖️ [⬜](#451)<br/>[⬜](#452) ⭕ [⬜](#453)<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="143"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="143"></a><br/><br/><br/>
 <a name="144"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="144"></a><br/><br/><br/>
 <a name="145"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ⬜<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="145"></a><br/><br/><br/>
 <a name="146"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ⭕ [⬜](#454)<br/>[⬜](#455) ✖️ [⬜](#456)<br/><br/><br/><br/>
 <a name="147"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="147"></a><br/><br/><br/>
 <a name="148"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⬜<br/>⬜ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⬜<br/>⬜ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="148"></a><br/><br/><br/>
 <a name="149"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>⬜ ⭕ ✖️<br/>⬜ ⬜ ⭕<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
 <a name="150"></a><br/><br/><br/>
