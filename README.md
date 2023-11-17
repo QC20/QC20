@@ -1,20 +1,17 @@
 
 <a name="top"></a>
-***Ready for a Tic-Tac-Toe showdown?***
+<strong>Ready for a Tic-Tac-Toe showdown?</strong>
 
-<i>Let the emojis do their thing for a few seconds, and when they're all set, kick off the game by tapping the top box.</i>
+<em>Let the emojis do their thing for a few seconds, and when they're all set, kick off the game by tapping the top box.</em>
 
-The 'X' team gets the honor of the first move—pick any of the nine boxes to make your mark.
+<b>The 'X' team gets the honor of the first move—pick any of the nine boxes to make your mark.</b>
 
-_If the buttons decide to take a break and ignore your clicks, a quick page reload should do the trick. Sometimes, GitHub gets a little emoji stage fright!
-
-Beware the screen hops! Each time you drop an 'X,' it's like a teleport to the first game board you see. Don't worry; it's all part of the whimsical game experience. Give it a whirl and let the good times roll!_
+<i>If the buttons decide to take a break and ignore your clicks, a quick page reload should do the trick. Sometimes, GitHub gets a little emoji stage fright!
+Beware the screen hops! Each time you drop an 'X,' it's like a teleport to the first game board you see. Don't worry; it's all part of the whimsical game experience. Give it a whirl and let the good times roll!</i>
 
 ***Let the games begin!***
 
-
-
-If you're not into the shenanigans and just want to dive into the cool projects, let's cut to the chase and [skip to the bottom](#bottom). Let's just cut to the chase and get to the main event!
+<em>If you're not into the shenanigans and just want to dive into the cool projects, let's cut to the chase and [skip to the bottom](#bottom). Let's just cut to the chase and get to the main event!</em>
 ---
 <a name="root"></a><br/><br/><br/>
 [⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/>
@@ -163,8 +160,7 @@ If you're not into the shenanigans and just want to dive into the cool projects,
 <a name="72"></a><br/><br/><br/>
 [⬜](#383) [⬜](#384) [⬜](#385)<br/>[⬜](#386) ⭕ [⬜](#387)<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="73"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
-<a name="74"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>Go to the bottom: [↓](#bottom)<br/><a name="74"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Care to play again?](#root)<br/><br/><br/>
 <a name="75"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⭕ ⭕ [⬜](#388)<br/>✖️ [⬜](#389) [⬜](#390)<br/><br/><br/><br/>
@@ -1925,4 +1921,4 @@ If you're not into the shenanigans and just want to dive into the cool projects,
 ---
 
 <a name="bottom"></a>
-[Take me to the top](#top)
+[Take me back to the top again 🌱](#top)
