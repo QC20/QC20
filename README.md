@@ -1,9 +1,10 @@
 
 <a name="top"></a>
 ***Ready for a Tic-Tac-Toe showdown?***
-Let the emojis do their thing for a few seconds, and when they're all set, kick off the game by tapping the top box.
 
-***The 'X' team gets the honor of the first move—pick any of the nine boxes to make your mark. ***
+<i>Let the emojis do their thing for a few seconds, and when they're all set, kick off the game by tapping the top box.</i>
+
+The 'X' team gets the honor of the first move—pick any of the nine boxes to make your mark.
 
 _If the buttons decide to take a break and ignore your clicks, a quick page reload should do the trick. Sometimes, GitHub gets a little emoji stage fright!
 
