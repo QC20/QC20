@@ -164,7 +164,7 @@ Let's just cut to the chase and get to the main event!
 <a name="72"></a><br/><br/><br/>
 [⬜](#383) [⬜](#384) [⬜](#385)<br/>[⬜](#386) ⭕ [⬜](#387)<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="73"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="74"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Feeling up for another game?](#root)
 ✖️ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/>O wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="75"></a><br/><br/><br/>
 <a name="75"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⭕ ⭕ [⬜](#388)<br/>✖️ [⬜](#389) [⬜](#390)<br/><br/><br/><br/>
@@ -1623,7 +1623,7 @@ Let's just cut to the chase and get to the main event!
 <a name="802"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
 <a name="803"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️ s<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
 <a name="804"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
 <a name="805"></a><br/><br/><br/>
