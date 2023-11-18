@@ -2,8 +2,6 @@
 <a name="top"></a>
 <strong>Ready for a Tic-Tac-Toe showdown?</strong>
 
-If you're not into the shenanigans and just want to dive into the cool projects, let's cut to the chase and [skip to the bottom](#bottom). Let's just cut to the chase and get to the main event!
-
 <em>Let the emojis do their thing for a few seconds, and when they're all set, kick off the game by tapping the top box.</em>
 
 <b>The 'X' team gets the honor of the first move—pick any of the nine boxes to make your mark.</b>
