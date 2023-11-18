@@ -9,9 +9,9 @@
 <i>If the buttons decide to take a break and ignore your clicks, a quick page reload should do the trick. Sometimes, GitHub gets a little emoji stage fright!
 Beware the screen hops! Each time you drop an 'X,' it's like a teleport to the first game board you see. Don't worry; it's all part of the whimsical game experience. Give it a whirl and let the good times roll!</i>
 
-***Let the games begin!***
+<strong><i>Let the games begin!***</strong></i>
 
-<i>If you're not into the shenanigans and just want to dive into the cool projects, let's cut to the chase and [skip to the bottom](#bottom). Let's just cut to the chase and get to the main event!</i>
+If you're not into the shenanigans and just want to dive into the cool projects, let's cut to the chase and [skip to the bottom](#bottom). Let's just cut to the chase and get to the main event!
 ---
 <a name="root"></a><br/><br/><br/>
 [⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/>
