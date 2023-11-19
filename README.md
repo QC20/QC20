@@ -12,7 +12,7 @@ Beware the screen hops! Each time you drop an 'X,' it's like a teleport to the f
 
 <strong><i>Let the games begin!</strong></i>
 
-If you're not into the shenanigans and just want to dive into the cool projects, let's cut to the chase and [skip to the bottom](#bottom). 
+If you're not into my shenanigans and just want to dive into the cool projects, go ahead and [skip to the bottom](#bottom). 
 Let's just cut to the chase and get to the main event!
 
 
