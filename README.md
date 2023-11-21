@@ -472,8 +472,7 @@ Let's just cut to the chase and get to the main event!
 ⭕ ⭕ [⬜](#535)<br/>✖️ ✖️ ⭕<br/>[⬜](#536) ✖️ [⬜](#537)<br/><br/><br/><br/>
 <a name="227"></a><br/><br/><br/>
 ⭕ ⭕ [⬜](#538)<br/>✖️ ✖️ ⭕<br/>[⬜](#539) [⬜](#540) ✖️<br/><br/><br/><br/>
-<a name="228"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>⭕ ⬜ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="229"></a><br/><br/><br/>
+<a name="228"></a><br/><br/><br/> ⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>⭕ ⬜ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="229"></a><br/><br/><br/>
 <a name="229"></a><br/><br/><br/>
 ⭕ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ⬜ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="230"></a><br/><br/><br/>
 <a name="230"></a><br/><br/><br/>
@@ -533,15 +532,15 @@ Let's just cut to the chase and get to the main event!
 <a name="257"></a><br/><br/><br/>
 [⬜](#580) ✖️ ⭕<br/>⭕ [⬜](#581) ✖️<br/>⭕ [⬜](#582) ✖️<br/><br/><br/><br/>
 <a name="258"></a><br/><br/><br/>
-✖️ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="258"></a><br/><br/><br/>
 <a name="259"></a><br/><br/><br/>
-⬜ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="259"></a><br/><br/><br/>
 <a name="260"></a><br/><br/><br/>
 ⭕ [⬜](#583) ⭕<br/>✖️ ⭕ ✖️<br/>✖️ [⬜](#584) [⬜](#585)<br/><br/><br/><br/>
 <a name="261"></a><br/><br/><br/>
-⬜ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="261"></a><br/><br/><br/>
 <a name="262"></a><br/><br/><br/>
-⬜ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="262"></a><br/><br/><br/>
 <a name="263"></a><br/><br/><br/>
 ✖️ [⬜](#586) ⭕<br/>⭕ ✖️ ✖️<br/>[⬜](#587) [⬜](#588) ⭕<br/><br/><br/><br/>
 <a name="264"></a><br/><br/><br/>
@@ -685,13 +684,13 @@ Let's just cut to the chase and get to the main event!
 <a name="333"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>[⬜](#676) ✖️ [⬜](#677)<br/>⭕ ✖️ [⬜](#678)<br/><br/><br/><br/>
 <a name="334"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>⬜ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
-<a name="335"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>⬜ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>⬜ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="334"></a><br/><br/><br/>
+<a name="335"></a><br/><br/><br/>7
+⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>⬜ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="335"></a><br/><br/><br/>
 <a name="336"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⬜ ✖️ ⬜<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⬜ ✖️ ⬜<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="336"></a><br/><br/><br/>
 <a name="337"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⬜ ✖️ ⬜<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⬜ ✖️ ⬜<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="337"></a><br/><br/><br/>
 <a name="338"></a><br/><br/><br/>
 ✖️ ⭕ [⬜](#679)<br/>[⬜](#680) ⭕ ✖️<br/>⭕ ✖️ [⬜](#681)<br/><br/><br/><br/>
 <a name="339"></a><br/><br/><br/>
@@ -723,13 +722,13 @@ Let's just cut to the chase and get to the main event!
 <a name="352"></a><br/><br/><br/>
 [⬜](#721) ⭕ ⭕<br/>[⬜](#722) [⬜](#723) ✖️<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="353"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="353"></a><br/><br/><br/>
 <a name="354"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⬜<br/>✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="354"></a><br/><br/><br/>
 <a name="355"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="355"></a><br/><br/><br/>
 <a name="356"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⬜<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="356"></a><br/><br/><br/>
 <a name="357"></a><br/><br/><br/>
 ✖️ ⭕ [⬜](#724)<br/>[⬜](#725) ⭕ [⬜](#726)<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="358"></a><br/><br/><br/>
@@ -743,15 +742,15 @@ Let's just cut to the chase and get to the main event!
 <a name="362"></a><br/><br/><br/>
 ⭕ ✖️ [⬜](#739)<br/>[⬜](#740) ⭕ [⬜](#741)<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="363"></a><br/><br/><br/>
-✖️ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="363"></a><br/><br/><br/>
 <a name="364"></a><br/><br/><br/>
-⬜ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="364"></a><br/><br/><br/>
 <a name="365"></a><br/><br/><br/>
 ⭕ [⬜](#742) ✖️<br/>✖️ ⭕ ⭕<br/>[⬜](#743) [⬜](#744) ✖️<br/><br/><br/><br/>
 <a name="366"></a><br/><br/><br/>
-⬜ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="366"></a><br/><br/><br/>
 <a name="367"></a><br/><br/><br/>
-⬜ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="367"></a><br/><br/><br/>
 <a name="368"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ [⬜](#745)<br/>[⬜](#746) [⬜](#747) ✖️<br/><br/><br/><br/>
 <a name="369"></a><br/><br/><br/>
@@ -763,95 +762,95 @@ Let's just cut to the chase and get to the main event!
 <a name="372"></a><br/><br/><br/>
 ⭕ [⬜](#757) [⬜](#758)<br/>✖️ ⭕ [⬜](#759)<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="373"></a><br/><br/><br/>
-✖️ ⬜ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⬜ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="373"></a><br/><br/><br/>
 <a name="374"></a><br/><br/><br/>
-⬜ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="374"></a><br/><br/><br/>
 <a name="375"></a><br/><br/><br/>
-⬜ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="375"></a><br/><br/><br/>
 <a name="376"></a><br/><br/><br/>
 [⬜](#760) [⬜](#761) ⭕<br/>[⬜](#762) ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="377"></a><br/><br/><br/>
-⬜ ⬜ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⬜ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="377"></a><br/><br/><br/>
 <a name="378"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⬜<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="378"></a><br/><br/><br/>
 <a name="379"></a><br/><br/><br/>
 ⭕ ✖️ [⬜](#763)<br/>[⬜](#764) ⭕ [⬜](#765)<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="380"></a><br/><br/><br/>
-⬜ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⭕ ✖️<br/>⬜ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="380"></a><br/><br/><br/>
 <a name="381"></a><br/><br/><br/>
-⬜ ⭕ ⬜<br/>✖️ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⭕ ⬜<br/>✖️ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="381"></a><br/><br/><br/>
 <a name="382"></a><br/><br/><br/>
-⬜ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⭕ ⬜<br/>⬜ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="382"></a><br/><br/><br/>
 <a name="383"></a><br/><br/><br/>
-✖️ ⬜ ⭕<br/>⬜ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⬜ ⭕<br/>⬜ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="383"></a><br/><br/><br/>
 <a name="384"></a><br/><br/><br/>
-⬜ ✖️ ⭕<br/>⬜ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ✖️ ⭕<br/>⬜ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="384"></a><br/><br/><br/>
 <a name="385"></a><br/><br/><br/>
 [⬜](#766) [⬜](#767) ✖️<br/>[⬜](#768) ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="386"></a><br/><br/><br/>
-⬜ ⬜ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⬜ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="386"></a><br/><br/><br/>
 <a name="387"></a><br/><br/><br/>
-⬜ ⬜ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⬜ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="387"></a><br/><br/><br/>
 <a name="388"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ [⬜](#769)<br/><br/><br/><br/>
 <a name="389"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="389"></a><br/><br/><br/>
 <a name="390"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="390"></a><br/><br/><br/>
 <a name="391"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>[⬜](#770) ✖️ ⭕<br/><br/><br/><br/>
 <a name="392"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="392"></a><br/><br/><br/>
 <a name="393"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="393"></a><br/><br/><br/>
 <a name="394"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="394"></a><br/><br/><br/>
 <a name="395"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ [⬜](#771)<br/><br/><br/><br/>
 <a name="396"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>⭕ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>⭕ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="395"></a><br/><br/><br/>
 <a name="397"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>[⬜](#772) ⭕ ✖️<br/>⭕ ✖️ ⭕<br/><br/><br/><br/>
 <a name="398"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="396"></a><br/><br/><br/>
 <a name="399"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="397"></a><br/><br/><br/>
 <a name="400"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="398"></a><br/><br/><br/>
 <a name="401"></a><br/><br/><br/>
 ✖️ ⭕ [⬜](#773)<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/><br/><br/><br/>
 <a name="402"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⬜<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="399"></a><br/><br/><br/>
 <a name="403"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="400"></a><br/><br/><br/>
 <a name="404"></a><br/><br/><br/>
 ✖️ [⬜](#774) ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/><br/><br/><br/>
 <a name="405"></a><br/><br/><br/>
-✖️ ⬜ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⬜ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="405"></a><br/><br/><br/>
 <a name="406"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>[⬜](#775) ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="407"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="407"></a><br/><br/><br/>
 <a name="408"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="408"></a><br/><br/><br/>
 <a name="409"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="409"></a><br/><br/><br/>
 <a name="410"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="410"></a><br/><br/><br/>
 <a name="411"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="411"></a><br/><br/><br/>
 <a name="412"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="412"></a><br/><br/><br/>
 <a name="413"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ [⬜](#776)<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="414"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="414"></a><br/><br/><br/>
 <a name="415"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ✖️ ⬜<br/>⭕ ⭕ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ✖️ ⬜<br/>⭕ ⭕ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="415"></a><br/><br/><br/>
 <a name="416"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="416"></a><br/><br/><br/>
 <a name="417"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="417"></a><br/><br/><br/>
 <a name="418"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ⭕ [⬜](#777)<br/><br/><br/><br/>
 <a name="419"></a><br/><br/><br/>
@@ -859,11 +858,11 @@ Let's just cut to the chase and get to the main event!
 <a name="420"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>[⬜](#779) ⭕ ✖️<br/><br/><br/><br/>
 <a name="421"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="421"></a><br/><br/><br/>
 <a name="422"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ [⬜](#780)<br/><br/><br/><br/>
 <a name="423"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="423"></a><br/><br/><br/>
 <a name="424"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⭕ [⬜](#781)<br/><br/><br/><br/>
 <a name="425"></a><br/><br/><br/>
@@ -877,11 +876,11 @@ Let's just cut to the chase and get to the main event!
 <a name="429"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>⭕ ✖️ [⬜](#786)<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="430"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="430"></a><br/><br/><br/>
 <a name="431"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="431"></a><br/><br/><br/>
 <a name="432"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="432"></a><br/><br/><br/>
 <a name="433"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>[⬜](#787) ⭕ ⭕<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="434"></a><br/><br/><br/>
@@ -889,29 +888,29 @@ Let's just cut to the chase and get to the main event!
 <a name="435"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>[⬜](#789) ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="436"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="436"></a><br/><br/><br/>
 <a name="437"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="437"></a><br/><br/><br/>
 <a name="438"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="378"></a><br/><br/><br/>
 <a name="439"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ [⬜](#790) ✖️<br/><br/><br/><br/>
 <a name="440"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="440"></a><br/><br/><br/>
 <a name="441"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="441"></a><br/><br/><br/>
 <a name="442"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="442"></a><br/><br/><br/>
 <a name="443"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ [⬜](#791)<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="444"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="444"></a><br/><br/><br/>
 <a name="445"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="445"></a><br/><br/><br/>
 <a name="446"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>[⬜](#792) ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="447"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="447"></a><br/><br/><br/>
 <a name="448"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>[⬜](#793) ⭕ ⭕<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="449"></a><br/><br/><br/>
@@ -919,23 +918,23 @@ Let's just cut to the chase and get to the main event!
 <a name="450"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>[⬜](#795) ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="451"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="451"></a><br/><br/><br/>
 <a name="452"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="452"></a><br/><br/><br/>
 <a name="453"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="453"></a><br/><br/><br/>
 <a name="454"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>[⬜](#796) ✖️ ⭕<br/><br/><br/><br/>
 <a name="455"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="455"></a><br/><br/><br/>
 <a name="456"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="456"></a><br/><br/><br/>
 <a name="457"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ [⬜](#797) ✖️<br/><br/><br/><br/>
 <a name="458"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="458"></a><br/><br/><br/>
 <a name="459"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="459"></a><br/><br/><br/>
 <a name="460"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ [⬜](#798) ✖️<br/><br/><br/><br/>
 <a name="461"></a><br/><br/><br/>
@@ -943,23 +942,23 @@ Let's just cut to the chase and get to the main event!
 <a name="462"></a><br/><br/><br/>
 ⭕ [⬜](#800) ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="463"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⬜ ⭕ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⬜ ⭕ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="463"></a><br/><br/><br/>
 <a name="464"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="464"></a><br/><br/><br/>
 <a name="465"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>[⬜](#801) ✖️ ⭕<br/><br/><br/><br/>
 <a name="466"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ⭕ [⬜](#802)<br/>✖️ ✖️ ⭕<br/><br/><br/><br/>
 <a name="467"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="467"></a><br/><br/><br/>
 <a name="468"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="468"></a><br/><br/><br/>
 <a name="469"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>[⬜](#803) ✖️ ⭕<br/><br/><br/><br/>
 <a name="470"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ✖️<br/>⬜ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ✖️<br/>⬜ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="470"></a><br/><br/><br/>
 <a name="471"></a><br/><br/><br/>
-⭕ ⬜ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⬜ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="471"></a><br/><br/><br/>
 <a name="472"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ [⬜](#804) ✖️<br/><br/><br/><br/>
 <a name="473"></a><br/><br/><br/>
@@ -967,11 +966,11 @@ Let's just cut to the chase and get to the main event!
 <a name="474"></a><br/><br/><br/>
 ⭕ [⬜](#806) ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="475"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="475"></a><br/><br/><br/>
 <a name="476"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ [⬜](#807)<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="477"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="477"></a><br/><br/><br/>
 <a name="478"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ [⬜](#808) ✖️<br/><br/><br/><br/>
 <a name="479"></a><br/><br/><br/>
@@ -991,53 +990,53 @@ Let's just cut to the chase and get to the main event!
 <a name="486"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ [⬜](#816) ✖️<br/><br/><br/><br/>
 <a name="487"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="487"></a><br/><br/><br/>
 <a name="488"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="488"></a><br/><br/><br/>
 <a name="489"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="489"></a><br/><br/><br/>
 <a name="490"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ [⬜](#817)<br/><br/><br/><br/>
 <a name="491"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="491"></a><br/><br/><br/>
 <a name="492"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="492"></a><br/><br/><br/>
 <a name="493"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ [⬜](#818) ✖️<br/><br/><br/><br/>
 <a name="494"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="494"></a><br/><br/><br/>
 <a name="495"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="495"></a><br/><br/><br/>
 <a name="496"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="496"></a><br/><br/><br/>
 <a name="497"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="497"></a><br/><br/><br/>
 <a name="498"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="498"></a><br/><br/><br/>
 <a name="499"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="499"></a><br/><br/><br/>
 <a name="500"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="500"></a><br/><br/><br/>
 <a name="501"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="501"></a><br/><br/><br/>
 <a name="502"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="502"></a><br/><br/><br/>
 <a name="503"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="503"></a><br/><br/><br/>
 <a name="504"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="504"></a><br/><br/><br/>
 <a name="505"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="505"></a><br/><br/><br/>
 <a name="506"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ [⬜](#819)<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="507"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="507"></a><br/><br/><br/>
 <a name="508"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ✖️ ⬜<br/>⭕ ⭕ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ✖️ ⬜<br/>⭕ ⭕ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="508"></a><br/><br/><br/>
 <a name="509"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="509"></a><br/><br/><br/>
 <a name="510"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="510"></a><br/><br/><br/>
 <a name="511"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ⭕ [⬜](#820)<br/><br/><br/><br/>
 <a name="512"></a><br/><br/><br/>
@@ -1045,11 +1044,11 @@ Let's just cut to the chase and get to the main event!
 <a name="513"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>[⬜](#822) ⭕ ✖️<br/><br/><br/><br/>
 <a name="514"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="514"></a><br/><br/><br/>
 <a name="515"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ [⬜](#823)<br/><br/><br/><br/>
 <a name="516"></a><br/><br/><br/>
-⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>⭕ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="516"></a><br/><br/><br/>
 <a name="517"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⭕ [⬜](#824)<br/><br/><br/><br/>
 <a name="518"></a><br/><br/><br/>
@@ -1081,29 +1080,29 @@ Let's just cut to the chase and get to the main event!
 <a name="531"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ [⬜](#838) ✖️<br/><br/><br/><br/>
 <a name="532"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="532"></a><br/><br/><br/>
 <a name="533"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="533"></a><br/><br/><br/>
 <a name="534"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="534"></a><br/><br/><br/>
 <a name="535"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ [⬜](#839)<br/><br/><br/><br/>
 <a name="536"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="536"></a><br/><br/><br/>
 <a name="537"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="537"></a><br/><br/><br/>
 <a name="538"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ [⬜](#840) ✖️<br/><br/><br/><br/>
 <a name="539"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="539"></a><br/><br/><br/>
 <a name="540"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="540"></a><br/><br/><br/>
 <a name="541"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ [⬜](#841)<br/><br/><br/><br/>
 <a name="542"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="542"></a><br/><br/><br/>
 <a name="543"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="543"></a><br/><br/><br/>
 <a name="544"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⭕ [⬜](#842)<br/><br/><br/><br/>
 <a name="545"></a><br/><br/><br/>
@@ -1113,9 +1112,9 @@ Let's just cut to the chase and get to the main event!
 <a name="547"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ [⬜](#845)<br/><br/><br/><br/>
 <a name="548"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="548"></a><br/><br/><br/>
 <a name="549"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="549"></a><br/><br/><br/>
 <a name="550"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>[⬜](#846) ⭕ ✖️<br/><br/><br/><br/>
 <a name="551"></a><br/><br/><br/>
@@ -1125,9 +1124,9 @@ Let's just cut to the chase and get to the main event!
 <a name="553"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ [⬜](#849)<br/><br/><br/><br/>
 <a name="554"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="554"></a><br/><br/><br/>
 <a name="555"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="555"></a><br/><br/><br/>
 <a name="556"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>[⬜](#850) ⭕ ⭕<br/><br/><br/><br/>
 <a name="557"></a><br/><br/><br/>
@@ -1141,23 +1140,23 @@ Let's just cut to the chase and get to the main event!
 <a name="561"></a><br/><br/><br/>
 ✖️ [⬜](#855) ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="562"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="562"></a><br/><br/><br/>
 <a name="563"></a><br/><br/><br/>
 ✖️ [⬜](#856) ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/><br/><br/><br/>
 <a name="564"></a><br/><br/><br/>
-✖️ ⬜ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⬜ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="564"></a><br/><br/><br/>
 <a name="565"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="565"></a><br/><br/><br/>
 <a name="566"></a><br/><br/><br/>
 ✖️ [⬜](#857) ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="567"></a><br/><br/><br/>
-✖️ ⬜ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⬜ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="567"></a><br/><br/><br/>
 <a name="568"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ [⬜](#858)<br/><br/><br/><br/>
 <a name="569"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="569"></a><br/><br/><br/>
 <a name="570"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="570"></a><br/><br/><br/>
 <a name="571"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>[⬜](#859) ⭕ ⭕<br/><br/><br/><br/>
 <a name="572"></a><br/><br/><br/>
@@ -1171,23 +1170,23 @@ Let's just cut to the chase and get to the main event!
 <a name="576"></a><br/><br/><br/>
 [⬜](#864) ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="577"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="577"></a><br/><br/><br/>
 <a name="578"></a><br/><br/><br/>
 [⬜](#865) ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/><br/><br/><br/>
 <a name="579"></a><br/><br/><br/>
-⬜ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="579"></a><br/><br/><br/>
 <a name="580"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="580"></a><br/><br/><br/>
 <a name="581"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="581"></a><br/><br/><br/>
 <a name="582"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="582"></a><br/><br/><br/>
 <a name="583"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="583"></a><br/><br/><br/>
 <a name="584"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="584"></a><br/><br/><br/>
 <a name="585"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="585"></a><br/><br/><br/>
 <a name="586"></a><br/><br/><br/>
 ✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>[⬜](#866) ⭕ ⭕<br/><br/><br/><br/>
 <a name="587"></a><br/><br/><br/>
@@ -1203,45 +1202,45 @@ Let's just cut to the chase and get to the main event!
 <a name="592"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ [⬜](#872)<br/><br/><br/><br/>
 <a name="593"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="593"></a><br/><br/><br/>
 <a name="594"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="594"></a><br/><br/><br/>
 <a name="595"></a><br/><br/><br/>
 ✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>[⬜](#873) ✖️ ⭕<br/><br/><br/><br/>
 <a name="596"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="596"></a><br/><br/><br/>
 <a name="597"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="597"></a><br/><br/><br/>
 <a name="598"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="598"></a><br/><br/><br/>
 <a name="599"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="599"></a><br/><br/><br/>
 <a name="600"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="600"></a><br/><br/><br/>
 <a name="601"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⬜ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="601"></a><br/><br/><br/>
 <a name="602"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="602"></a><br/><br/><br/>
 <a name="603"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>[⬜](#874) ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="604"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="604"></a><br/><br/><br/>
 <a name="605"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="605"></a><br/><br/><br/>
 <a name="606"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="606"></a><br/><br/><br/>
 <a name="607"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="607"></a><br/><br/><br/>
 <a name="608"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="608"></a><br/><br/><br/>
 <a name="609"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="609"></a><br/><br/><br/>
 <a name="610"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="610"></a><br/><br/><br/>
 <a name="611"></a><br/><br/><br/>
 ✖️ ⭕ [⬜](#875)<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/><br/><br/><br/>
 <a name="612"></a><br/><br/><br/>
-✖️ ⭕ ⬜<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⬜<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="612"></a><br/><br/><br/>
 <a name="613"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>[⬜](#876) ⭕ ⭕<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="614"></a><br/><br/><br/>
@@ -1251,25 +1250,25 @@ Let's just cut to the chase and get to the main event!
 <a name="616"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ⭕ [⬜](#879)<br/>✖️ ✖️ ⭕<br/><br/><br/><br/>
 <a name="617"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="617"></a><br/><br/><br/>
 <a name="618"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="618"></a><br/><br/><br/>
 <a name="619"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ [⬜](#880)<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="620"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="620"></a><br/><br/><br/>
 <a name="621"></a><br/><br/><br/>
-⭕ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="621"></a><br/><br/><br/>
 <a name="622"></a><br/><br/><br/>
 ✖️ ⭕ [⬜](#881)<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/><br/><br/><br/>
 <a name="623"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="623"></a><br/><br/><br/>
 <a name="624"></a><br/><br/><br/>
-⭕ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="624"></a><br/><br/><br/>
 <a name="625"></a><br/><br/><br/>
-✖️ ✖️ ⬜<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ✖️ ⬜<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="625"></a><br/><br/><br/>
 <a name="626"></a><br/><br/><br/>
-✖️ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="626"></a><br/><br/><br/>
 <a name="627"></a><br/><br/><br/>
 ✖️ ⭕ [⬜](#882)<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/><br/><br/><br/>
 <a name="628"></a><br/><br/><br/>
@@ -1287,9 +1286,9 @@ Let's just cut to the chase and get to the main event!
 <a name="634"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ [⬜](#889)<br/><br/><br/><br/>
 <a name="635"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="635"></a><br/><br/><br/>
 <a name="636"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="636"></a><br/><br/><br/>
 <a name="637"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ✖️ [⬜](#890)<br/>⭕ ✖️ ⭕<br/><br/><br/><br/>
 <a name="638"></a><br/><br/><br/>
@@ -1299,15 +1298,15 @@ Let's just cut to the chase and get to the main event!
 <a name="640"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>[⬜](#893) ⭕ ✖️<br/>⭕ ✖️ ⭕<br/><br/><br/><br/>
 <a name="641"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="641"></a><br/><br/><br/>
 <a name="642"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="642"></a><br/><br/><br/>
 <a name="643"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>[⬜](#894) ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="644"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="644"></a><br/><br/><br/>
 <a name="645"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="645"></a><br/><br/><br/>
 <a name="646"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ [⬜](#895)<br/><br/><br/><br/>
 <a name="647"></a><br/><br/><br/>
@@ -1323,9 +1322,9 @@ Let's just cut to the chase and get to the main event!
 <a name="652"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ [⬜](#901)<br/><br/><br/><br/>
 <a name="653"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="653"></a><br/><br/><br/>
 <a name="654"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="654"></a><br/><br/><br/>
 <a name="655"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ [⬜](#902) ✖️<br/>⭕ ✖️ ⭕<br/><br/><br/><br/>
 <a name="656"></a><br/><br/><br/>
@@ -1341,9 +1340,9 @@ Let's just cut to the chase and get to the main event!
 <a name="661"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ [⬜](#908)<br/><br/><br/><br/>
 <a name="662"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="662"></a><br/><br/><br/>
 <a name="663"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="663"></a><br/><br/><br/>
 <a name="664"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ [⬜](#909)<br/><br/><br/><br/>
 <a name="665"></a><br/><br/><br/>
@@ -1357,29 +1356,29 @@ Let's just cut to the chase and get to the main event!
 <a name="669"></a><br/><br/><br/>
 ⭕ ⭕ [⬜](#914)<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="670"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="670"></a><br/><br/><br/>
 <a name="671"></a><br/><br/><br/>
 [⬜](#915) ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/><br/><br/><br/>
 <a name="672"></a><br/><br/><br/>
-⬜ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="672"></a><br/><br/><br/>
 <a name="673"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="673"></a><br/><br/><br/>
 <a name="674"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="674"></a><br/><br/><br/>
 <a name="675"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="675"></a><br/><br/><br/>
 <a name="676"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ [⬜](#916)<br/><br/><br/><br/>
 <a name="677"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="677"></a><br/><br/><br/>
 <a name="678"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="678"></a><br/><br/><br/>
 <a name="679"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>[⬜](#917) ⭕ ✖️<br/>⭕ ✖️ ⭕<br/><br/><br/><br/>
 <a name="680"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="680"></a><br/><br/><br/>
 <a name="681"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="681"></a><br/><br/><br/>
 <a name="682"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ [⬜](#918) ✖️<br/>⭕ ✖️ ⭕<br/><br/><br/><br/>
 <a name="683"></a><br/><br/><br/>
@@ -1387,23 +1386,23 @@ Let's just cut to the chase and get to the main event!
 <a name="684"></a><br/><br/><br/>
 [⬜](#920) ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/><br/><br/><br/>
 <a name="685"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="685"></a><br/><br/><br/>
 <a name="686"></a><br/><br/><br/>
 [⬜](#921) ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/><br/><br/><br/>
 <a name="687"></a><br/><br/><br/>
-⬜ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="687"></a><br/><br/><br/>
 <a name="688"></a><br/><br/><br/>
 ✖️ ⭕ [⬜](#922)<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/><br/><br/><br/>
 <a name="689"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⬜<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="689"></a><br/><br/><br/>
 <a name="690"></a><br/><br/><br/>
-⭕ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="690"></a><br/><br/><br/>
 <a name="691"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="691"></a><br/><br/><br/>
 <a name="692"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="692"></a><br/><br/><br/>
 <a name="693"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="693"></a><br/><br/><br/>
 <a name="694"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ⭕ [⬜](#923)<br/>✖️ ✖️ ⭕<br/><br/><br/><br/>
 <a name="695"></a><br/><br/><br/>
@@ -1413,33 +1412,33 @@ Let's just cut to the chase and get to the main event!
 <a name="697"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>⭕ ⭕ [⬜](#926)<br/>✖️ ✖️ ⭕<br/><br/><br/><br/>
 <a name="698"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="698"></a><br/><br/><br/>
 <a name="699"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="699"></a><br/><br/><br/>
 <a name="700"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="700"></a><br/><br/><br/>
 <a name="701"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="701"></a><br/><br/><br/>
 <a name="702"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="702"></a><br/><br/><br/>
 <a name="703"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⬜ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>⬜ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="703"></a><br/><br/><br/>
 <a name="704"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="704"></a><br/><br/><br/>
 <a name="705"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="705"></a><br/><br/><br/>
 <a name="706"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⬜ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="706"></a><br/><br/><br/>
 <a name="707"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="707"></a><br/><br/><br/>
 <a name="708"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="708"></a><br/><br/><br/>
 <a name="709"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>[⬜](#927) ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="710"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="710"></a><br/><br/><br/>
 <a name="711"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="711"></a><br/><br/><br/>
 <a name="712"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>[⬜](#928) ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="713"></a><br/><br/><br/>
@@ -1447,47 +1446,47 @@ Let's just cut to the chase and get to the main event!
 <a name="714"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>[⬜](#930) ✖️ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="715"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="715"></a><br/><br/><br/>
 <a name="716"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="716"></a><br/><br/><br/>
 <a name="717"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="717"></a><br/><br/><br/>
 <a name="718"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>⭕ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="718"></a><br/><br/><br/>
 <a name="719"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ✖️ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="719"></a><br/><br/><br/>
 <a name="720"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="720"></a><br/><br/><br/>
 <a name="721"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="721"></a><br/><br/><br/>
 <a name="722"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="722"></a><br/><br/><br/>
 <a name="723"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="723"></a><br/><br/><br/>
 <a name="724"></a><br/><br/><br/>
 ✖️ ⭕ ✖️<br/>[⬜](#931) ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="725"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="725"></a><br/><br/><br/>
 <a name="726"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="726"></a><br/><br/><br/>
 <a name="727"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ [⬜](#932) ✖️<br/><br/><br/><br/>
 <a name="728"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="728"></a><br/><br/><br/>
 <a name="729"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="729"></a><br/><br/><br/>
 <a name="730"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="730"></a><br/><br/><br/>
 <a name="731"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ [⬜](#933)<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="732"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="732"></a><br/><br/><br/>
 <a name="733"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="733"></a><br/><br/><br/>
 <a name="734"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>[⬜](#934) ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="735"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="735"></a><br/><br/><br/>
 <a name="736"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>[⬜](#935) ⭕ ⭕<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="737"></a><br/><br/><br/>
@@ -1495,11 +1494,11 @@ Let's just cut to the chase and get to the main event!
 <a name="738"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>[⬜](#937) ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="739"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ✖️<br/>⭕ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="739"></a><br/><br/><br/>
 <a name="740"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="740"></a><br/><br/><br/>
 <a name="741"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>⬜ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="741"></a><br/><br/><br/>
 <a name="742"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ [⬜](#938) ✖️<br/><br/><br/><br/>
 <a name="743"></a><br/><br/><br/>
@@ -1507,11 +1506,11 @@ Let's just cut to the chase and get to the main event!
 <a name="744"></a><br/><br/><br/>
 ⭕ [⬜](#940) ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="745"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="745"></a><br/><br/><br/>
 <a name="746"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ [⬜](#941)<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="747"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="747"></a><br/><br/><br/>
 <a name="748"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ [⬜](#942) ✖️<br/><br/><br/><br/>
 <a name="749"></a><br/><br/><br/>
@@ -1519,29 +1518,29 @@ Let's just cut to the chase and get to the main event!
 <a name="750"></a><br/><br/><br/>
 ⭕ [⬜](#944) ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="751"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="751"></a><br/><br/><br/>
 <a name="752"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⬜ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="752"></a><br/><br/><br/>
 <a name="753"></a><br/><br/><br/>
-⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>⬜ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="753"></a><br/><br/><br/>
 <a name="754"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ [⬜](#945)<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="755"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="755"></a><br/><br/><br/>
 <a name="756"></a><br/><br/><br/>
-⭕ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⭕ ⬜<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="756"></a><br/><br/><br/>
 <a name="757"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ⬜<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="757"></a><br/><br/><br/>
 <a name="758"></a><br/><br/><br/>
 ⭕ [⬜](#946) ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="759"></a><br/><br/><br/>
-⭕ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⭕ ⬜ ⭕<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="759"></a><br/><br/><br/>
 <a name="760"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⭕ ⭕<br/>⬜ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="760"></a><br/><br/><br/>
 <a name="761"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>[⬜](#947) ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="762"></a><br/><br/><br/>
-⬜ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="762"></a><br/><br/><br/>
 <a name="763"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>[⬜](#948) ⭕ ⭕<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="764"></a><br/><br/><br/>
@@ -1549,9 +1548,9 @@ Let's just cut to the chase and get to the main event!
 <a name="765"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>[⬜](#950) ⭕ ✖️<br/>✖️ ⭕ ✖️<br/><br/><br/><br/>
 <a name="766"></a><br/><br/><br/>
-✖️ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+✖️ ⬜ ✖️<br/>⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="766"></a><br/><br/><br/>
 <a name="767"></a><br/><br/><br/>
-⬜ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="168"></a><br/><br/><br/>
+⬜ ✖️ ✖️<br/>⭕ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>🔴 wins!!!<br/>[Feeling up for another game?](#root) <br>.. or go to the bottom: [↓](#bottom)<br/><a name="767"></a><br/><br/><br/>
 <a name="768"></a><br/><br/><br/>
 ⭕ [⬜](#951) ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/><br/><br/><br/>
 <a name="769"></a><br/><br/><br/>
