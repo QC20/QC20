@@ -1698,225 +1698,225 @@ Let's just cut to the chase and get to the main event!
 <a name="840"></a><br/><br/><br/>
 ⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br>.. or go to the bottom: [↓](#bottom)<br/><a name="767"></a><br/><br/><br/>
 <a name="841"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="842"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="843"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="844"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="845"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="846"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="847"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="848"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="849"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="850"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="851"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="852"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="853"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="854"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="855"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="856"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="857"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="858"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="859"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="860"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="861"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="862"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="863"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="864"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="865"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="866"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="867"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="868"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="869"></a><br/><br/><br/>
-✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="870"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="871"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="872"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="873"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="874"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="875"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="876"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="877"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="878"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="879"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="880"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="881"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="882"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="883"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="884"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="885"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="886"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="887"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="888"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="889"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="890"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="891"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="892"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="893"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="894"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="895"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="896"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="897"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="898"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="899"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="900"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="901"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="902"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="903"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="904"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="905"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="906"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="907"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="908"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="909"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="910"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="911"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="912"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="913"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="914"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="915"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="916"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="917"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="918"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="919"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="920"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="921"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="922"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ✖️ ✖️<br/>⭕ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="923"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="924"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="925"></a><br/><br/><br/>
-✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="926"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="927"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="928"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="929"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="930"></a><br/><br/><br/>
-⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ⭕ ✖️<br/>✖️ ✖️ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="931"></a><br/><br/><br/>
-✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+✖️ ⭕ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="932"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="933"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="934"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="935"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="936"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="937"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="938"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="939"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="940"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="941"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="942"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="943"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="944"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="945"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="946"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="947"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="948"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="949"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="950"></a><br/><br/><br/>
-⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br/><br/><br/>
+⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 <a name="951"></a><br/><br/><br/>
 ⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Feeling up for another game?](#root)<br>.. or go to the bottom: [↓](#bottom)<br/><a name="951"></a><br/><br/><br/>
 
