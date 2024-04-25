@@ -12,8 +12,7 @@ Beware the screen hops! Each time you drop an 'X,' it's like a teleport to the f
 
 <strong><i>Let the games begin!</strong></i>
 
-<p>If you're not into my shenanigans and just want to dive into all my cool projects, go ahead and <a name="bottom"></a>
-[skip to the bottom 🌱](#bottom).
+<p>If you're not into my shenanigans and just want to dive into all my cool projects, go ahead and [skip to the bottom](#bottom).
 </p>
 <p>Let's just cut to the chase and get to the main event!</p>
 
